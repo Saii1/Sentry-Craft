@@ -1,4 +1,9 @@
 # Sentry-Craft
-Sentry-Craft Magyar Minecraft Szerver Közösség github oldala, ahol ötleteket és hibajelentéseket várunk! A jó ötleteketért, és a hibajelentésekért jutalmat adunk!
-Kérlek, írd a hiba/ötlet jelentéshez a Játékos nevedet, hogy tudjunk jutalmzni!
-Hibákat/ötleteket az ''issues''-nél a ''New issues'' gombnál tudtok jelenteni.
+Sentry-Craft Magyar Minecraft Szerver Közösség github oldala, ahol hibajelentéseket várunk! A nagy hibajelentésekért jutalmat adunk!
+Hibákat az ''Issues''-nél a ''New issues'' gombnál tudtok jelenteni.
+Kérlek, írd a hiba jelentéshez a játékos nevedet, hogy tudjunk jutalmzni!
+
+A hibajelentésekért járó jutalom:
+
+SC (Sentry-Credit) amit a minemarket oldalunkon tudtok felhasználni!
+https://sentrycraft.minemarket.hu/
